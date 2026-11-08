@@ -24,13 +24,13 @@ I architect and build intelligent, autonomous Open Source AI Agents using Claude
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [google-maps-lead-gen](https://github.com/suhailnawazcse/google-maps-lead-gen) | Autonomous AI agent that extracts and qualifies local business leads via Google Maps integration. | Claude, Gemini, Python |
-| [market-research-plugin](https://github.com/suhailnawazcse/market-research-plugin) | AI-driven market intelligence agent for web scraping, trend analysis, and insights generation. | Claude, Gemini, Python |
-| [small-business-email-writer](https://github.com/suhailnawazcse/small-business-email-writer) | Personalized sales and outreach email generator agent designed for SMB growth. | Claude, Gemini, Node.js |
+| [google-maps-lead-gen](https://github.com/suhailnawazcse/google-maps-lead-gen) | Autonomous AI agent that extracts and qualifies local business leads via Google Maps integration. | Claude|
+| [market-research-plugin](https://github.com/suhailnawazcse/market-research-plugin) | AI-driven market intelligence agent for web scraping, trend analysis, and insights generation. | Claude |
+| [small-business-email-writer](https://github.com/suhailnawazcse/small-business-email-writer) | Personalized sales and outreach email generator agent designed for SMB growth. | Claude |
 
 ---
 
-## 📫 Connect & Collaborate
+ 📫 Connect & Collaborate
 
 - 💼 GitHub: [@suhailnawazcse](https://github.com/suhailnawazcse)
 - 🤝 Open for contributions, collaborations, and discussions around autonomous AI agent architecture.
